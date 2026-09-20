@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cb28da02205981c0082beb45",
+  "owner": "bduacmety",
+  "repo": "page-0872446a25b9f4c9222bcef2",
+  "title": "彩色狗(ColorfulDog)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0872446a25b9f4c9222bcef2",
+      "a": "彩色狗(ColorfulDog)",
+      "b": "2027最新官网",
+      "entity": "彩色狗(ColorfulDog)",
+      "brand": "彩色狗(ColorfulDog)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5d9a32e236da3ab4653758228cc46b8e24f51d8d9b10ebe6233fbbeebc0dc4ea",
+      "content": {
+        "primary_entity": "彩色狗(ColorfulDog)",
+        "keyword1": "彩色狗(ColorfulDog)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "彩色狗支持在常用系统上配置订阅，按设备类型选择适合的客户端，配置前请阅读对应客户端文档。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选合适套餐，按客户端文档完成订阅配置即可使用彩色狗。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺手",
+          "AI_DESCRIPTION": "，彩色狗提供多档海外加速套餐，基础版每月100GB流量支持3台设备，旗舰版每月300GB支持5台设备并含IPLC专线，团队版每月1000GB支持20台设备，可按年付节省费用。",
+          "AI_FEATURES_INTRO": "彩色狗的套餐围绕流量、设备数与线路质量区分，先明确日常用量再决定订阅周期。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，含IPLC专线与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，提供VIP高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路质量分层",
+          "AI_FEATURE_TITLE_3": "团队定制支持",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三步即可开始使用彩色狗。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "彩色狗提供海外加速订阅，按设备数量与月流量划分基础版、旗舰版和团队版，支持主流客户端配置，适合个人与团队选择。",
+          "AI_HERO_SUBTITLE": "彩色狗海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线加速",
+          "AI_HIGHLIGHT_3": "年付更省，团队版支持20台设备",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备，年付分别只需150元、350元与850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版和团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制、流量额度与线路说明，确认符合使用需求。",
+          "AI_STEP_TEXT_3": "按所用客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "彩色狗海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "彩色狗订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_1": "购买套餐后获得订阅链接，在 Clash、Shadowrocket、sing-box 等客户端的订阅或配置页面粘贴链接，更新后即可看到节点列表。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版最多 3 台，旗舰版最多 5 台，团队版最多 20 台。超出限制可能导致其他设备无法连接，需要升级套餐。",
+          "AI_FAQ_QUESTION_3": "每月流量用完了会怎样？",
+          "AI_FAQ_ANSWER_3": "套餐内流量用尽后，可在下个计费周期恢复，或升级到更高流量的旗舰版和团队版。具体恢复方式以服务方说明为准。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付价格更低，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于按月付费的折扣价，权益与月付套餐一致。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线对游戏加速和低延迟场景有帮助，适合对稳定性要求高的用户。日常浏览也可以选择基础版。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "phljuwm.cn",
+    "host": "phljuwm.cn"
+  },
+  "file_hashes": {
+    "index.html": "ac875a25f8c9a187b09fe60575da141b8306d438f71aa9a6b48b5813e644a2ed",
+    "sitemap.xml": "abedac8732a05d5fea57a10885171a8996a207d5fbac3a793d07ce408da8f33c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb01830e8a623ff9b2cad076a6a70520f9d3fcbfa322af205adc4ef0356ed846",
+    "robots.txt": "acbffc3d92d2155beb6e892856296fd8906f4623ca06c026a0339a0e4594aacf",
+    "31fb449dd33380d17bd318690d6a5d87.txt": "ae08f391e2c100112c740501c6e551dec0d7c97318af0af15d19cda37e2d7af5"
+  },
+  "revision": "288c7be6e0b6df6414029ac2f2eda27dc8181ce530e8ed9dd48e23e85b546566"
+}
